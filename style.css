@@ -1,0 +1,81 @@
+@import url (https://fonts.googleapis.com/css?family=Tangerine)
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Tangerine',sans-serif;
+}
+.title{
+    text-align:center;
+    margin-top:4rem;
+    text-decoration:underline 2px solid #0000FF;
+    text-underline-offset:.5em;
+   
+
+}
+
+
+.article{
+    /* box-shadow:15rem 15rem grey; */
+    /* background-color:grey; */
+    width:15rem;
+    height:15rem;
+    /* margin-left:33rem; */
+    border-radius:4px;
+}
+
+body{
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:#EFEFEF;
+}
+
+.card{
+    background-color:#FFF;
+    border-radius:25px;
+    width:320px;
+    justify-content:center;
+}
+.card-image{
+    position:relative;
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    background:#EFEFEF;
+    
+   
+}
+
+.card-image .card-img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    border-radius:50%;
+    border:2px solid #407054;
+    
+}
+
+.cards-content{
+    padding:20px;
+    align-items:center;
+    display:flex;
+    flex-direction:column;
+}
+
+.btn-container{
+    list-style:none;
+    width
+}
+
+.prev-btn{
+    color:#0000FF;
+    border-style:none;
+    cursor:pointer;
+    margin:2px;
+}
+
+
+
+

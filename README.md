@@ -15,7 +15,7 @@ cd Reviews
 Use vscode to open it
 
 ## live link
-
+https://reviews-snowy-gamma.vercel.app/
 
 ## Technologies Used
 HTML

@@ -44,6 +44,7 @@ body{
     width:150px;
     border-radius:50%;
     background:#EFEFEF;
+    margin-left:70px;
     
    
 }
@@ -64,6 +65,9 @@ body{
     flex-direction:column;
 }
 
+.jobTitle{
+    color:#87CEEB;
+}
 .btn-container{
     list-style:none;
     width
@@ -76,6 +80,13 @@ body{
     margin:2px;
 }
 
-
+.random{
+    margin:8px;
+    border-radius:4px;
+    cursor:pointer;
+    background-color:#87CEEB;
+    border-style:none;
+    padding:4px;
+}
 
 

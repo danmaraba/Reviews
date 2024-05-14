@@ -9,13 +9,11 @@ This project is meant to display reviews by different individuals who accessed a
 
 ## Project Set Up Instructions
 CTRL+ALT+T to open the terminal
-
-
 cd Reviews
 Use vscode to open it
 
 ## live link
-
+https://reviews-snowy-gamma.vercel.app/
 
 ## Technologies Used
 HTML
